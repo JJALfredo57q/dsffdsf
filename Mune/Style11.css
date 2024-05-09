@@ -1,0 +1,261 @@
+* {
+    margin: 0;
+    
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: aqua;
+    width: 100%;
+    position: fixed;
+}
+
+.Background {
+    background: rgb(95,148,108);
+    background: linear-gradient(180deg, rgba(95,148,108,1) 0%, rgba(127,168,133,1) 45%, rgba(153,185,144,1) 100%);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.Container {
+    background-color: rgba(4, 0, 255, 0);
+    width:600px;
+    max-height: 24435px;
+    transition: 0.6s;
+    
+    
+    
+}
+
+.vcv {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.Container p {
+    font-size: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 114px;
+}
+
+.Container button {
+    height: 55px;
+    width: 220px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 3vh;
+    border:  solid 2px;
+    cursor: pointer;
+    transition: 0.2s;
+    
+}
+
+.Container div1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+
+
+.Container button:hover {
+    background-color: rgb(173, 173, 173);
+    color: rgb(0, 0, 0);
+
+}
+
+
+@media only screen and (max-width: 600px) {
+    .Container {
+        transform: scale(0.6);
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .buttonasd {
+        transform: scale(0.6);
+        
+    }
+}
+
+
+.MenuB {
+    left: 10px;
+    top: 10px;
+    background-color: rgba(0, 255, 255, 0);
+    height: 45px;
+    width: 150px;
+    display: flex;
+    position: absolute;
+
+}
+
+.B {
+    height: 3px;
+
+    background-color: aliceblue;
+    margin-top: 9px;
+    
+    
+}
+
+.BBB {
+    height: 100%;
+    width: 40px;
+    background-color: rgba(0, 0, 255, 0);
+}
+
+.MenuB p {
+    font-size: 30px;
+    text-align: center;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+    color: aliceblue;
+}
+
+.buttonasd {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    
+}
+
+.MenuBBBB {
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(179, 39, 39, 0);
+    position: absolute;
+    z-index: 1;
+    display: flex;
+}
+
+.BBBB {
+    width: 300px;
+    height: 100%;
+    background-color:rgb(218, 224, 171);
+}
+
+.Bs {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(143, 219, 160);
+    display: flex;
+    align-items: center;
+
+    
+}
+
+.et {
+    height: 30px;
+    
+
+}
+
+
+
+
+.Bsd {
+    background: none;
+    border: none;
+}
+
+.afer {
+    display: flex;
+    width: 100%;
+    border-bottom: 3px solid rgb(121, 190, 130);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    cursor: pointer;
+    height: 100%;
+    align-items: center;
+    background: none;
+    
+    
+}
+
+.sff  {
+    text-decoration: none;
+    
+    
+}
+
+.fdgsg {
+    height: 30px;
+    
+    
+}
+
+
+.safdr {
+    width: 100%;
+    background-color: rgb(227, 233, 171);
+    height: 50px;
+    
+}
+
+.tfsa {
+    display: flex;
+    align-items: center;
+}
+
+.psf {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+
+.afdsyj {
+    display: flex;
+    margin-top: 20px;
+}
+
+.fgssyl {
+    height: 30px;
+    margin-left: 4px;
+    margin-top: 4px;
+}
+
+
+.w5bgf {
+    display: flex;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+
+.afdsyjj {
+    display: flex;
+}
+
+
+.ghw4hr {
+    height: 100vh;
+    width: 100%;
+    border: none;
+    background: none;
+}
+
+.iljkhfg {
+    height: 100vh;
+    width: 100%;
+}
